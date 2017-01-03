@@ -1,0 +1,19 @@
+{
+  "name": "websocket-template-barebones",
+  "version": "1.0.0",
+  "description": "A barebones template for websockets using Node.js, Express, and socket.io.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/drudger/websocket-template-barebones.git"
+  },
+  "author": "Chris Hinds",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "socket.io": "^1.7.2"
+  }
+}
